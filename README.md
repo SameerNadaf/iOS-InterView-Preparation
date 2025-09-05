@@ -7,9 +7,10 @@ A curated collection of **iOS interview questions and answers** with detailed ex
 
 ## 📚 Core Knowledge
 ### 1. [Swift Fundamentals](./Files/Swift-Fundamentals.md)
-### 2. [iOS Fundamentals](./Files/iOS-Fundamentals.md)  
-### 3. [Networking](./Files/Networking.md)  
-### 4. [Data Structures & Algorithms](./Files/DSA-Questions.md)  
+### 2. [iOS Fundamentals](./Files/iOS-Fundamentals.md) 
+### 3. [Architecture And Design](./Files/Architecture-And-Design.md)
+### 4. [Networking](./Files/Networking.md)  
+### 5. [Data Structures & Algorithms](./Files/DSA-Questions.md)  
 
 <br/>
 
