@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-### 1. How do we measure algorithms ?
+#### 1. How do we measure algorithms ?
 
 <details>
   <summary>Solution</summary>
@@ -36,9 +36,10 @@ We measure algorithms primarily by **how their resource usage grows** with input
 * Merge sort → `O(n log n)` time, `O(n)` extra space.
 
 In interviews you’ll cite asymptotic complexity, explain assumptions (random input, hash distribution), and note space trade-offs.
+
 </details>
 
-### 2. Why should developers care about data structures and algorithms ?
+#### 2. Why should developers care about data structures and algorithms ?
 
 <details>
   <summary>Solution</summary>
@@ -73,7 +74,7 @@ In interviews you’ll cite asymptotic complexity, explain assumptions (random i
 
 </details>
 
-### 3. Which sorting algorithm uses a pivot and partitioning ?
+#### 3. Which sorting algorithm uses a pivot and partitioning ?
 
 <details>
   <summary>Solution</summary>
@@ -105,7 +106,7 @@ In interviews you’ll cite asymptotic complexity, explain assumptions (random i
 
 </details>
 
-### 4. What are the properties of a doubly linked node ?
+#### 4. What are the properties of a doubly linked node ?
 
 <details>
   <summary>Solution</summary>
@@ -140,7 +141,7 @@ class DNode<T> {
 
 </details>
 
-### 5. Name three built-in data structures in Swift ?
+#### 5. Name three built-in data structures in Swift ?
 
 <details>
   <summary>Solution</summary>
@@ -169,7 +170,7 @@ Three common built-in Swift collections:
 
 </details>
 
-### 6. Name the types of depth-first traversals and explain how each works ?
+#### 6. Name the types of depth-first traversals and explain how each works ?
 
 <details>
   <summary>Solution</summary>
@@ -230,7 +231,7 @@ For a binary tree, the main **depth-first traversals**:
 
 </details>
 
-### 7. What is the runtime of `contains` on an array ?
+#### 7. What is the runtime of `contains` on an array ?
 
 <details>
   <summary>Solution</summary>
@@ -249,7 +250,7 @@ Reason:
 
 </details>
 
-### 8. What's the runtime of `contains` on a set ?
+#### 8. What's the runtime of `contains` on a set ?
 
 <details>
   <summary>Solution</summary>
@@ -268,7 +269,7 @@ Reason:
 
 </details>
 
-### 9. What's the requirements of a recursive function ?
+#### 9. What's the requirements of a recursive function ?
 
 <details>
   <summary>Solution</summary>
@@ -298,7 +299,7 @@ func factorial(_ n: Int) -> Int {
 
 </details>
 
-### 10. Name a few sorting algorithms and their runtimes ?
+#### 10. Name a few sorting algorithms and their runtimes ?
 
 <details>
   <summary>Solution</summary>
@@ -374,7 +375,7 @@ Here’s a concise list with time/space complexity and notes (n = number of elem
 
 </details>
 
-### 11. What is divide and conquer and give an algorithm example ?
+#### 11. What is divide and conquer and give an algorithm example ?
 
 <details>
   <summary>Solution</summary>
