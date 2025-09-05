@@ -82,7 +82,7 @@ A comprehensive collection of **iOS design patterns, architecture concepts, and 
 <details>
   <summary>Answer</summary>
 
-**Dependency Injection (DI)** is a design principle where an object receives its dependencies from an external source rather than creating them itself.
+Dependency Injection (DI) is a design principle where an object receives its dependencies from an external source rather than creating them itself. This makes the code more flexible, testable, and maintainable.
 
 **Example:**
 
@@ -110,7 +110,7 @@ class PostListViewModel {
     }
 }
 ```
-
+</details>
 
 #### 6. What are the major layers of the iOS software stack?
 
